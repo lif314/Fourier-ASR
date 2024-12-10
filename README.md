@@ -2,8 +2,23 @@
   <h1 align="center">
     Representing Sounds as Neural Amplitude Fields: A Benchmark of Coordinate-MLPs and A Fourier Kolmogorov-Arnold Framework
    <br>
-    <!-- [Submitted to AAAI 2025] -->
+    [AAAI 2025]
   </h1>
+
+  <p align="center">
+  <a href="https://github.com/lif314"><strong>Linfei Li</strong></a>
+  ·
+  <a href="https://scholar.google.com/citations?user=8VOk_S4AAAAJ&hl=en"><strong>Lin Zhang*</strong></a>
+  ·
+  <a href="https://scholar.google.com/citations?user=rrkp_usAAAAJ&hl=en"><strong>Zhong Wang</strong></a>
+  ·
+  <a href="https://github.com/Xian-Bei"><strong>Fengyi Zhang</strong></a>
+  ·
+   <a href="https://tomli515.github.io/"><strong>Zelin Li</strong></a>
+  ·
+  <a href="https://scholar.google.com/citations?user=A0N_mS0AAAAJ&hl=en"><strong>Ying Shen</strong></a>
+</p>
+
 
   <h3 align="center"><a href="https://neaf-audio.github.io/NeAF-Audio/">🌐Project page</a> | <a href="https://github.com/lif314/NeAF">📝Paper (Comming soon)</a></h3>
   <div align="center"></div>
