@@ -20,7 +20,7 @@
 </p>
 
 
-  <h3 align="center"><a href="https://neaf-audio.github.io/NeAF-Audio/">🌐Project page</a> | <a href="https://github.com/lif314/NeAF">📝Paper (Comming soon)</a></h3>
+  <h3 align="center"><a href="https://neaf-audio.github.io/NeAF-Audio/">🌐Project page</a> | <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34624">📝Paper (AAAI) | <a href="https://arxiv.org/abs/2601.06406">📝Paper (arXiv)</a></h3>
   <div align="center"></div>
 </p>
 
@@ -155,4 +155,17 @@ When model capacity is limited, larger $\Omega$ in the input layer improve the p
 
 ```
 bash scripts/benchmark_Fourier_omega.sh
+```
+
+## Citation
+```
+@article{Li_2025,
+   title={Representing Sounds as Neural Amplitude Fields: A Benchmark of Coordinate-MLPs and a Fourier Kolmogorov-Arnold Framework},
+   volume={39},
+   number={23},
+   journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+   publisher={AAAI},
+   author={Li, Linfei and Zhang, Lin and Wang, Zhong and Zhang, Fengyi and Li, Zelin and Shen, Ying},
+   year={2025},
+   month=apr, pages={24458–24466} }
 ```
